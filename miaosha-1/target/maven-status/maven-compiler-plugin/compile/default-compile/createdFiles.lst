@@ -1,0 +1,16 @@
+com\ayuantalking\result\Result.class
+com\ayuantalking\domain\MiaoshaUser.class
+com\ayuantalking\validator\constraints\IsMobileValidator.class
+com\ayuantalking\dao\MiaoshaUserDao.class
+com\ayuantalking\result\CodeMsg.class
+com\ayuantalking\util\ConstantUtil.class
+com\ayuantalking\util\ValidatorUtil.class
+com\ayuantalking\exception\GlobalExcepiton.class
+com\ayuantalking\service\impl\MiaoshaUserServiceImpl.class
+com\ayuantalking\exception\GlobalExceptionHandler.class
+com\ayuantalking\service\MiaoshaUserService.class
+com\ayuantalking\vo\LoginVo.class
+com\ayuantalking\MiaoshaApplication.class
+com\ayuantalking\controller\LoginController.class
+com\ayuantalking\util\MD5Util.class
+com\ayuantalking\validator\constraints\IsMobile.class
